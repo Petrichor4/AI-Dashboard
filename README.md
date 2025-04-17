@@ -77,7 +77,7 @@ A full-stack web app where companies can securely upload business data and recei
 
 ---
 
-## 🛠 Milestones (Optional)
+## 🛠 Milestones
 
 - [ ] Set up multi-tenant auth and org structure
 - [ ] File upload and CSV parser
